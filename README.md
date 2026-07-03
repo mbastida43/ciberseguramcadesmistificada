@@ -8,3 +8,6 @@ Evidente que não vou cobrir o tema de Cybersegurança de forma abragente, o obj
  - README.md
  - Tactical_Cybersecurity_Blueprint.pdf  - (apresentação mostrada)
  - Tactical_Cybersecurity_Blueprint.pptx  - (Powerpoint para apresentação didática)
+
+ [Licença](LICENSE.md)
+
